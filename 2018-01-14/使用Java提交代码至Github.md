@@ -456,5 +456,4 @@ reset.
 >
 > }
 
-![](media/image1.png){width="2.8850557742782152in"
-height="0.5728455818022747in"}
+![Alt text](./1515923245708.png)
