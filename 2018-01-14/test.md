@@ -1,6 +1,6 @@
 最新版本的screenshot2disk在保存时只能保存一种格式，现在改为在保存时可以选择PNG、JPG、BMP三种格式，如下图所示：
 
-![](../images/image1.jpeg)
+![](images/image1.jpeg)
 
 修改其实也很简单，主要是两个地方：
 
@@ -195,4 +195,4 @@ outputformat, out int compression)
 
 39 }
 
-![](../images/image2.png)
+![](images/image2.png)
