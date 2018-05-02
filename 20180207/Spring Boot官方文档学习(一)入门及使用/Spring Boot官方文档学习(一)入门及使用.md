@@ -15,82 +15,82 @@ Boot而出现的。
 **目录：**
 
 1.  [内置Servlet
-    Container](http://www.cnblogs.com/larryzeal/p/5799195.html#c1)
+Container](http://www.cnblogs.com/larryzeal/p/5799195.html#c1)
 
 2.  [使用Spring
-    Boot](http://www.cnblogs.com/larryzeal/p/5799195.html#c2)
+Boot](http://www.cnblogs.com/larryzeal/p/5799195.html#c2)
 
 3.  [安装Spring Boot
-    CLI](http://www.cnblogs.com/larryzeal/p/5799195.html#c3)
+CLI](http://www.cnblogs.com/larryzeal/p/5799195.html#c3)
 
 4.  [开发一个简单的Spring
-    Boot应用\--使用最原始的方式](http://www.cnblogs.com/larryzeal/p/5799195.html#c4)
+Boot应用\--使用最原始的方式](http://www.cnblogs.com/larryzeal/p/5799195.html#c4)
 
-    1.  [创建一个文件夹](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-1)
+1.  [创建一个文件夹](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-1)
 
-    2.  [新建一个pom.xml文件](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-2)
+2.  [新建一个pom.xml文件](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-2)
 
-    3.  [命令：mvn
-        package](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-3)
+3.  [命令：mvn
+package](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-3)
 
-    4.  [添加依赖](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-4)
+4.  [添加依赖](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-4)
 
-    5.  [开始写代码](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-5)
+5.  [开始写代码](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-5)
 
-    6.  [启动项目](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-6)
+6.  [启动项目](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-6)
 
-    7.  [打包](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-7)
+7.  [打包](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-7)
 
-    8.  [执行](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-8)
+8.  [执行](http://www.cnblogs.com/larryzeal/p/5799195.html#c4-8)
 
 5.  [Dependency
-    Management](http://www.cnblogs.com/larryzeal/p/5799195.html#c5)
+Management](http://www.cnblogs.com/larryzeal/p/5799195.html#c5)
 
-    9.  [继承
-        spring-boot-starter-parent](http://www.cnblogs.com/larryzeal/p/5799195.html#c5-1)
+9.  [继承
+spring-boot-starter-parent](http://www.cnblogs.com/larryzeal/p/5799195.html#c5-1)
 
-    10. [不继承
-        spring-boot-starter-parent](http://www.cnblogs.com/larryzeal/p/5799195.html#c5-2)
+10. [不继承
+spring-boot-starter-parent](http://www.cnblogs.com/larryzeal/p/5799195.html#c5-2)
 
 6.  [Starters](http://www.cnblogs.com/larryzeal/p/5799195.html#c6)
 
 7.  [自动配置](http://www.cnblogs.com/larryzeal/p/5799195.html#c7)
 
 8.  [Spring Beans 和
-    依赖注入（略）](http://www.cnblogs.com/larryzeal/p/5799195.html#c8)
+依赖注入（略）](http://www.cnblogs.com/larryzeal/p/5799195.html#c8)
 
 9.  [@SpringBootApplication](http://www.cnblogs.com/larryzeal/p/5799195.html#c9)
 
 10. [运行Spring Boot
-    Application](http://www.cnblogs.com/larryzeal/p/5799195.html#c10)
+Application](http://www.cnblogs.com/larryzeal/p/5799195.html#c10)
 
-    11. [从IDE中运行](http://www.cnblogs.com/larryzeal/p/5799195.html#c10-1)
+11. [从IDE中运行](http://www.cnblogs.com/larryzeal/p/5799195.html#c10-1)
 
-    12. [运行fat jar（executable
-        jar）](http://www.cnblogs.com/larryzeal/p/5799195.html#c10-2)
+12. [运行fat jar（executable
+jar）](http://www.cnblogs.com/larryzeal/p/5799195.html#c10-2)
 
-    13. [使用Maven
-        Plugin](http://www.cnblogs.com/larryzeal/p/5799195.html#c10-3)
+13. [使用Maven
+Plugin](http://www.cnblogs.com/larryzeal/p/5799195.html#c10-3)
 
-    14. [Hot
-        swapping](http://www.cnblogs.com/larryzeal/p/5799195.html#c10-4)
+14. [Hot
+swapping](http://www.cnblogs.com/larryzeal/p/5799195.html#c10-4)
 
 11. [Developer
-    tools](http://www.cnblogs.com/larryzeal/p/5799195.html#c11)
+tools](http://www.cnblogs.com/larryzeal/p/5799195.html#c11)
 
-    15. [Property
-        defaults](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-1)
+15. [Property
+defaults](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-1)
 
-    16. [自动重启](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-2)
+16. [自动重启](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-2)
 
-    17. [热加载
-        LiveReload](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-3)
+17. [热加载
+LiveReload](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-3)
 
-    18. [全局设置](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-4)
+18. [全局设置](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-4)
 
-    19. [远程应用](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-5)
+19. [远程应用](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-5)
 
-        1.  [远程调试](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-5-1)
+1.  [远程调试](http://www.cnblogs.com/larryzeal/p/5799195.html#c11-5-1)
 
 12. [生产打包](http://www.cnblogs.com/larryzeal/p/5799195.html#c12)
 
@@ -98,14 +98,14 @@ Boot而出现的。
 
 一、内置Servlet Container：
 
-  **Name**       **Servlet Version**   **Java Version**
-  -------------- --------------------- ------------------
-  Tomcat 8       3.1                   Java 7+
-  Tomcat 7       3.0                   Java 6+
-  Jetty 9.3      3.1                   Java 8+
-  Jetty 9.2      3.1                   Java 7+
-  Jetty 8        3.0                   Java 6+
-  Undertow 1.3   3.1                   Java 7+
+**Name**       **Servlet Version**   **Java Version**
+-------------- --------------------- ------------------
+Tomcat 8       3.1                   Java 7+
+Tomcat 7       3.0                   Java 6+
+Jetty 9.3      3.1                   Java 8+
+Jetty 9.2      3.1                   Java 7+
+Jetty 8        3.0                   Java 6+
+Undertow 1.3   3.1                   Java 7+
 
  
 
@@ -254,8 +254,7 @@ package。注意，是当前路径下 //SpringBootSample01/ 。
 
         当然，你也可以使用IDE，不过使用文本编辑器会让我们对它更理解。
 
-        ![](media/image1.png){width="5.768055555555556in"
-height="4.464583333333334in"}
+![](images/image1.png)
 
     4、现在需要添加依赖 \-- 其实就是把依赖的jar添加到buildpath。
 
@@ -270,8 +269,7 @@ dependency:tree。该命令会打印一个当前项目的依赖树。
 
         结果表明，当前没有任何依赖。 
 
- ![](media/image2.png){width="5.768055555555556in"
-height="2.7333333333333334in"}
+![](images/image2.png)
 
         OK，现在我们添加一个Starter 模块。
 
@@ -291,8 +289,7 @@ height="2.7333333333333334in"}
 
         现在再次查看一下依赖树。
 
-　![](media/image3.png){width="5.768055555555556in" height="5.4375in"}
-
+![](images/image3.png)
         可以看出，spring-boot-starter-web 
 包含了很多内容，spring-webmvc、spring-web、jackson、validation、tomcat、starter。
 
@@ -374,8 +371,7 @@ POM，你需要自己来声明这个配置信息。
 
             现在，可以打包了： mvn package 。
 
-            ![](media/image4.png){width="5.768055555555556in"
-height="4.313194444444444in"}
+![](images/image4.png)
 
             现在，你可以在/target目录下看到 myproject-0.0.1-SNAPSHOT.jar
 ，大约10 Mb左右。可以通过 jar tvf target/myproject-0.0.1-SNAPSHOT.jar
@@ -830,10 +826,10 @@ Foundry，那你需要进行如下操作：
 3.  Browse for the my-app project
 
 4.  Use org.springframework.boot.devtools.RemoteSpringApplication as the
-    main class.
+main class.
 
 5.  Add https://myapp.cfapps.io to the Program arguments (or whatever
-    your remote URL is).
+your remote URL is).
 
  
 
