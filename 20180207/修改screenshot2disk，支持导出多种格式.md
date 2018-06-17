@@ -216,4 +216,4 @@ outputformat, out int compression)
 
 39 }
 
-![](https://github.com/yida-lxw/blog//blob/master/20180207/images/image3.png)
+![](https://github.com/yida-lxw/blog/blob/master/20180207/images/image3.png)
