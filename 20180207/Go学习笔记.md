@@ -15,5 +15,5 @@ description:
 ## 安装Go
 1. 下载Go安装包
 GO安装包下载地址：[https://studygolang.com/dl](https://studygolang.com/dl)
-![](https://github.com/yida-lxw/blog/blob/master/20180207/images/_1529314830_16105.png)
+![](https://github.com/yida-lxw/blog/blob/master/20180207/images/_1529314830_16105.png?raw=true)
 2.
