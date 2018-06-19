@@ -1,3 +1,23 @@
+---
+title: Go安装
+layout: post
+date: 2018-06-18 17:18:16
+comments: true
+post_catalog: true
+tags:
+- Go
+categories:
+- Go
+keywords: Go
+permalink: install-go
+description:
+---
+## 安装Go
+1. 下载Go安装包
+GO安装包下载地址：[https://studygolang.com/dl](https://studygolang.com/dl)
+![](images/_1529312072_11127.png)
+>建议下载zip或tar.gz等压缩文件格式，而非msi或pkg等安装文件格式。
+2.
 最新版本的screenshot2disk在保存时只能保存一种格式，现在改为在保存时可以选择PNG、JPG、BMP三种格式，如下图所示：
 
 ![https://images0.cnblogs.com/blog/4107/201303/22133256-a72954a2c88e4d3b96e18c51af7c8242.jpg](media/image1.jpeg){width="4.4527777777777775in"
