@@ -13,6 +13,7 @@ Windows平台下，下载后得到的是一个exe安装文件，安装之后，�
 ![](https://github.com/yida-lxw/blog/blob/master/20180724/images/_1532362453_11961.png?raw=true)
 
 接下来我们需要设置项目编译环境，通过快捷键Ctrl + Alt + Shift + S打开IDEA的项目结构(即Project Structure)设置，具体设置如下图所示：
+
 ![](https://github.com/yida-lxw/blog/blob/master/20180724/images/_1532362770_9715.png?raw=true)
 
 上图主要设置了项目使用的SDK以及项目的语言级别，不同语言级别的语法会有所不同，这里我们是编译JDK7源码，故统一设置为JDK7
@@ -22,6 +23,7 @@ Windows平台下，下载后得到的是一个exe安装文件，安装之后，�
 ![](https://github.com/yida-lxw/blog/blob/master/20180724/images/_1532363216_11431.png?raw=true)
 
 上图设置的每个模块的语言级别为7以及模块使用的SDK版本。然后我们就可以开始尝试进行JDK源码编译啦！请如下图所示进行操作：
+
 ![](https://github.com/yida-lxw/blog/blob/master/20180724/images/_1532363369_12574.png?raw=true)
 
 此时可能会提示你：sun.awt.UNIXToolkit not found，此时我们需要从openJDK里找到UNIXToolkit.java文件，复制到我们当前项目里即可，下面是UNIXToolkit.java的获取链接：
